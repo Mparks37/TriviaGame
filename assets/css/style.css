@@ -11,7 +11,6 @@ h1 {
 }
 
 #splashscreen {
-    background-image: url('../images/nike-bg.png');
     background-repeat: no-repeat;
     width: 35%;
     margin: 0 auto;
@@ -51,7 +50,6 @@ label {
 
 #answerScreen {
     display: none;
-    background-image: url('../images/nike-bg.png');
     background-repeat: no-repeat;
     width: 40%;
     margin: 0 auto;
@@ -62,7 +60,6 @@ label {
 
 #timesUp {
     display: none;
-    background-image: url('../images/nike-bg.png');
     background-repeat: no-repeat;
     width: 35%;
     margin: 0 auto;
@@ -85,7 +82,6 @@ label {
 }
 
 body .container {
-    background-image: url('../images/nike-bg.png');
     height: 100%;
     text-align: center;
     display: none;
